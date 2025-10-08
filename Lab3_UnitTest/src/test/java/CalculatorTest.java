@@ -29,4 +29,8 @@ void testMultiplyFromFile(int a, int b, int expected){
         assertEquals(expected, cal.multiply(a,b), "KQ " +a + "*"+ b + "= "+expected);
 
 }
+    @Test
+    void testAdd2(){
+
+    }
 }
